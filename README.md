@@ -11,6 +11,6 @@ For the project:
 3) follow the 'Set up VMachines' pdf file in the repo to set up VMs<br>
 
 Structure:
-<img src="screen_gns3.png"/>
+<img src="gns3.png"/>
 
 <br>Exam presentation (brief explenation of Hive) in the pptx file.<br>
