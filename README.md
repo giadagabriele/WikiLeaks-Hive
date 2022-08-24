@@ -2,8 +2,10 @@
 The CIA Hive Component, Network Security Project - Università della Calabria
 <br>(<b>in progress</b>)
 
-<br>Documents source: https://wikileaks.org/vault7/document/#hive .<br>
-Tools code source: https://wikileaks.org//vault8/document/repo_hive/ .<br>
+Documents source: https://wikileaks.org/vault7/document/#hive .<br>
+Tools code source: https://wikileaks.org//vault8/document/repo_hive/ .
+
+<I>NOTE: we were unable to configure everything due to issues with CentOS versions and missing/deprecated commands</I><br>
 
 For the project:
 1) we used GNS3 (download from here if you don't have it https://gns3.com/software/download)<br>
@@ -13,4 +15,4 @@ For the project:
 Structure:
 <img src="gns3.png"/>
 
-<br>Exam presentation (brief explenation of Hive) in the pptx file.<br>
+Exam presentation (brief explenation of Hive) <a href="https://github.com/giadagabriele/WikiLeaks-Hive/blob/main/The%20CIA%20Hive%20component.pptx">here</a>.<br>
