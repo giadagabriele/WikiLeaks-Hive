@@ -15,4 +15,4 @@ For the project:
 Structure:
 <img src="gns3.png"/>
 
-Exam presentation (brief explenation of Hive) <a href="https://github.com/giadagabriele/WikiLeaks-Hive/blob/main/The%20CIA%20Hive%20component.pptx">here</a>.<br>
+Exam presentation <a href="https://github.com/giadagabriele/WikiLeaks-Hive/blob/main/The%20CIA%20Hive%20component.pptx">here</a>.<br>
