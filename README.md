@@ -11,8 +11,7 @@ Tools code source: https://wikileaks.org//vault8/document/repo_hive/ .
 4. follow <a href="https://github.com/giadagabriele/WikiLeaks-Hive/blob/main/Set%20up%20VMachines.pdf">this</a> brief guide to set up VMs
 
 
-**NOTE**: we were unable to configure everything due to issues with CentOS versions and missing/deprecated commands.<br>
-<a href="https://github.com/giadagabriele/WikiLeaks-Hive/blob/main/Hive%20-%20GNS3%20project.docx">Here</a> you can find what we did.</I><br>
+**NOTE**: we were unable to configure everything due to issues with CentOS versions and missing/deprecated commands. <a href="https://github.com/giadagabriele/WikiLeaks-Hive/blob/main/Hive%20-%20GNS3%20project.docx">Here</a> you can find what we did.</I><br>
 
 Structure:
 <img src="gns3.png"/>
