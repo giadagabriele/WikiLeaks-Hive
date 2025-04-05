@@ -1,4 +1,4 @@
-# WikiLeaks-Hive <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiadagabriele%2FWikiLeaks-Hive%2Fhit-counter&count_bg=%235D84A7&title_bg=%23ABABAB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+# WikiLeaks-Hive 
 The CIA Hive Component, Network Security Project - Università della Calabria
 
 Documents source: https://wikileaks.org/vault7/document/#hive .<br>
