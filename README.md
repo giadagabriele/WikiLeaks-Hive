@@ -3,7 +3,7 @@
 
 _The CIA Hive Component_ <br>
 Documents source: https://wikileaks.org/vault7/document/#hive .<br>
-Tools code source: https://wikileaks.org//vault8/document/repo_hive/ .
+Tools source code: https://wikileaks.org//vault8/document/repo_hive/ .
 
 1. we used GNS3 (download from here if you don't have it https://gns3.com/software/download)
 2. CentOS6 vdi download <a href="https://www.osboxes.org/centos/">here</a>
